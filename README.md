@@ -2,17 +2,22 @@
 
 <h1 align="center">Hi 👋, I'm Compatitive Programmer!</h1>
 
- <p align="center">
-  <a href="https://www.linkedin.com/in/omarfaruksrabon/" alt="LinkedIN"><img width="32px" src="./img/linked.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/omarfaruksrabon001/" alt="FaceBook"><img width="32px" src="./img/fb.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/shra__bon/" alt="Instagram"><img width="32px" src="./img/insta.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Discord"><img width="32px" src="./img/discord-48.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./img/coffee.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+<p align="center">
+  <a href="https://www.linkedin.com/in/omarfaruksrabon/" alt="LinkedIN">
+    <img width="32px" src="https://raw.githubusercontent.com/yourusername/yourrepo/main/img/linked.png"/>
+  </a>
+  <a href="https://www.facebook.com/omarfaruksrabon001/" alt="Facebook">
+    <img width="32px" src="https://raw.githubusercontent.com/yourusername/yourrepo/main/img/fb.png"/>
+  </a>
+  <a href="https://www.instagram.com/shra__bon/" alt="Instagram">
+    <img width="32px" src="https://raw.githubusercontent.com/yourusername/yourrepo/main/img/insta.png"/>
+  </a>
+  <a href="#" alt="Discord">
+    <img width="32px" src="https://raw.githubusercontent.com/yourusername/yourrepo/main/img/discord-48.png"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/" title="Buy me a coffee">
+    <img width="32px" src="https://raw.githubusercontent.com/yourusername/yourrepo/main/img/coffee.png"/>
+  </a>
 </p>
 
 <h3 align="center">A Passionate Full Stake Software Engineer from Bangladesh</h3>
