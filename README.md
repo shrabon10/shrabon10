@@ -50,7 +50,7 @@ Feel free to reach out via email or check out my projects on GitHub!
     <br/>
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
-:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+:computer: &emsp;Most used line of code `printf("Hello, World!")` <br/>
 🤔 &emsp;I’m looking for .....<br/>
 :e-mail: &emsp;How to reach me: [![Email](https://img.shields.io/badge/Email-omarfaruksrabon@gmail.com-blue)](mailto:omarfaruksrabon@gmail.com)
 <br/>
