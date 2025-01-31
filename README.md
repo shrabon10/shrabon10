@@ -8,15 +8,42 @@ I am a passionate software engineer with over a year of experience in developing
 ## 🎓 Education
 **B.Sc. in Computer Science & Engineering**  - Norther University Bangladesh | Dhaka, Bangladesh
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrabon10&label=Profile%20views&color=0e75b6&style=flat" alt="shrabon10" /> </p>
+## 💼 Experience
 
-- 🌱 I’m currently learning **Database Engineer**
+## 📚 Co-Curricular Activities
+**Programming Trainer & Mentor**
+- Assistant Manager of Programming, IUBAT Society (March 2021-April 2022).
+- Trainer of Basic Language Sessions (C, C++).
+- Competitive Programming Instructor at Shohoj Coding Online Platform.
 
-- 💬 Ask me about **C++, C, Data analysis**
+**Problem-Setter & Organizer**
+- Organized several programming contests to motivate students in problem-solving.
 
-- 📫 How to reach me **omarfaruksrabon@gmail.com**
+## 💡 Problem Solving Experience
+- **Leetcode:** 100+ problems solved.
+
+## ⚙️ Skills
+- **Programming Languages:** C, C++, Python, JavaScript.
+- **Technologies & Tools:** HTML, CSS, SCSS, Bootstrap, MySQL, MongoDB, Tailwind CSS.
+- **Leadership & Others:** Proficient in communication, management, and organizing events.
+
+---
+
+Feel free to reach out via email or check out my projects on GitHub!
+
+<br>
+  <img align="right" alt="GIF" src="https://github.com/coderskamrul/coderskamrul/blob/main/img/Programmer-PNG-Photo-Image.png" width="500" height="320" />
+    <br/>
+
+:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
+:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+🤔 &emsp;I’m looking for .....<br/>
+:e-mail: &emsp;How to reach me: [![Email](https://img.shields.io/badge/Email-omarfaruksrabon@gmail.com-blue)](mailto:omarfaruksrabon@gmail.com)
+<br/>
+
+ <br/>
+  <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
