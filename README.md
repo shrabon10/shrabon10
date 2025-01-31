@@ -27,7 +27,6 @@ I am a passionate software engineer with over a year of experience in developing
 
 ## 📚 Co-Curricular Activities
 **Programming Trainer & Mentor**
-- Assistant Manager of Programming, IUBAT Society (March 2021-April 2022).
 - Trainer of Basic Language Sessions (C, C++).
 - Competitive Programming Instructor at Shohoj Coding Online Platform.
 
