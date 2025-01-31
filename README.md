@@ -2,6 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Compatitive Programmer!</h1>
 <h3 align="center">A Passionate Full Stake Software Engineer from Bangladesh</h3>
+
+I am a passionate software engineer with over a year of experience in developing scalable web applications. I specialize in creating user-friendly interfaces and implementing efficient back-end solutions. With a strong foundation in programming languages and frameworks, I am committed to delivering high-quality software that meets client needs. My experience includes collaborating with cross-functional teams and mentoring aspiring programmers.
+
+## 🎓 Education
+**B.Sc. in Computer Science & Engineering**  - Norther University Bangladesh | Dhaka, Bangladesh
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrabon10&label=Profile%20views&color=0e75b6&style=flat" alt="shrabon10" /> </p>
