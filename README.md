@@ -34,3 +34,9 @@ I am a passionate software engineer with over a year of experience in developing
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrabon10&show_icons=true&locale=en" alt="shrabon10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrabon10&" alt="shrabon10" /></p>
+
+
+### 📈 GitHub Activity Graph:
+[![shrabon Github Activity Graph (Light Theme)](https://github-readme-activity-graph.vercel.app/graph?username=shrabon10&bg_color=18dc5a&color=000000&line=000000&point=000000&area=true&hide_border=true)](#gh-dark-mode-only)
+[![shrabon Github Activity Graph (Dark Theme)](https://github-readme-activity-graph.vercel.app/graph?username=shrabon10&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](#gh-light-mode-only)
+
