@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Compatitive Programmer!</h1>
 
  <p align="center">
-  
   <a href="https://www.linkedin.com/in/omarfaruksrabon/" alt="LinkedIN"><img width="32px" src="./img/linked.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/omarfaruksrabon001/" alt="FaceBook"><img width="32px" src="./img/fb.png"/></a>
@@ -14,8 +13,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.buymeacoffee.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./img/coffee.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
 </p>
+
 <h3 align="center">A Passionate Full Stake Software Engineer from Bangladesh</h3>
 
 I am a passionate software engineer with over a year of experience in developing scalable web applications. I specialize in creating user-friendly interfaces and implementing efficient back-end solutions. With a strong foundation in programming languages and frameworks, I am committed to delivering high-quality software that meets client needs. My experience includes collaborating with cross-functional teams and mentoring aspiring programmers.
