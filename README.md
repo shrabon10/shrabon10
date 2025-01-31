@@ -57,6 +57,11 @@ Feel free to reach out via email or check out my projects on GitHub!
 
  <br/>
   <br/>
+  
+
+  ### 📈 GitHub Activity Graph:
+[![shrabon Github Activity Graph (Light Theme)](https://github-readme-activity-graph.vercel.app/graph?username=shrabon10&bg_color=18dc5a&color=000000&line=000000&point=000000&area=true&hide_border=true)](#gh-dark-mode-only)
+[![shrabon Github Activity Graph (Dark Theme)](https://github-readme-activity-graph.vercel.app/graph?username=shrabon10&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](#gh-light-mode-only)
 
 
 
@@ -68,9 +73,3 @@ Feel free to reach out via email or check out my projects on GitHub!
 |[![**shrabon status**](https://github-readme-stats.vercel.app/api?username=shrabon10&show_icons=true&theme=merko&includble_all_commits=true)](#gh-dark-mode-only) [![**shrabon status**](https://github-readme-stats.vercel.app/api?username=shrabon10&show_icons=true&theme=buefy&includble_all_commits=true)](#gh-light-mode-only) | [![**shrabon status**](https://github-readme-stats.vercel.app/api/top-langs/?username=shrabon10&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#gh-dark-mode-only) [![**shrabon status**](https://github-readme-stats.vercel.app/api/top-langs/?username=shrabon&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#gh-light-mode-only) |
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=shrabon10&theme=merko&hide_border=false)](#gh-dark-mode-only) [![](https://github-readme-streak-stats.herokuapp.com/?user=shrabon10&theme=buefy&hide_border=false)](#gh-light-mode-only)
-
-
-### 📈 GitHub Activity Graph:
-[![shrabon Github Activity Graph (Light Theme)](https://github-readme-activity-graph.vercel.app/graph?username=shrabon10&bg_color=18dc5a&color=000000&line=000000&point=000000&area=true&hide_border=true)](#gh-dark-mode-only)
-[![shrabon Github Activity Graph (Dark Theme)](https://github-readme-activity-graph.vercel.app/graph?username=shrabon10&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](#gh-light-mode-only)
-
