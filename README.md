@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Compatitive Programmer!</h1>
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/omarfaruksrabon/" alt="LinkedIN"><https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png></a>
+  <a href="https://www.linkedin.com/in/omarfaruksrabon/" alt="LinkedIN"><https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rawpixel.com%2Fsearch%2Flinkedin&psig=AOvVaw0aQuP1yqjFxsNXoK8up1ie&ust=1738867248155000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCu8biXrYsDFQAAAAAdAAAAABAE>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/omarfaruksrabon001/" alt="FaceBook"><img width="32px" src="./img/fb.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
