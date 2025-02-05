@@ -5,7 +5,7 @@
 <p align="center"> 
   <a href="https://www.linkedin.com/in/omarfaruksrabon/" alt="LinkedIN"><https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rawpixel.com%2Fsearch%2Flinkedin&psig=AOvVaw0aQuP1yqjFxsNXoK8up1ie&ust=1738867248155000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCu8biXrYsDFQAAAAAdAAAAABAE>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/omarfaruksrabon001/" alt="FaceBook"><img width="32px" src="./img/fb.png"/></a>
+  <a href="https://www.facebook.com/omarfaruksrabon001/" alt="FaceBook"><https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ffacebook%2F&psig=AOvVaw0OvMlfNNd1Xpqv6h8ICjV2&ust=1738867636918000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDm0fGYrYsDFQAAAAAdAAAAABAE></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/shra__bon/" alt="Instagram"><img width="32px" src="./img/insta.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
