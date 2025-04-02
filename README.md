@@ -2,18 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Compatitive Programmer!</h1>
 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/omarfaruksrabon/" alt="LinkedIN"><img width="32px" src="./img/linked.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/omarfaruksrabon001/" alt="FaceBook"><img width="32px" src="./img/fb.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/shra__bon/" alt="Instagram"><img width="32px" src="./img/insta.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Discord"><img width="32px" src="./img/discord-48.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./img/coffee.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
 
 <h3 align="center">A Passionate Full Stake Software Engineer from Bangladesh</h3>
 
