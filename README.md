@@ -5,27 +5,26 @@
 
 <h3 align="center">A Passionate Full Stake Software Engineer from Bangladesh</h3>
 
-I am a passionate software engineer with over a year of experience in developing scalable web applications. I specialize in creating user-friendly interfaces and implementing efficient back-end solutions. With a strong foundation in programming languages and frameworks, I am committed to delivering high-quality software that meets client needs. My experience includes collaborating with cross-functional teams and mentoring aspiring programmers.
+I am a passionate software engineer. I specialize in creating user-friendly interfaces and implementing efficient back-end solutions. With a strong foundation in programming languages and frameworks, I am committed to delivering high-quality software that meets client needs. My experience includes collaborating with cross-functional teams and mentoring aspiring programmers.
 
 ## 🎓 Education
-**B.Sc. in Computer Science & Engineering**  - Norther University Bangladesh | Dhaka, Bangladesh
+**B.Sc. in Computer Science & Engineering**  - Northern University Bangladesh (2023-2027)
 
 
 ## 💼 Experience
 
 ## 📚 Co-Curricular Activities
 **Programming Trainer & Mentor**
-- Trainer of Basic Language Sessions (C, C++).
 - Competitive Programming at Online Platform.
 
 **Problem-Setter & Organizer**
-- Organized several programming contests to motivate students in problem-solving.
+- Organized several programming contests.
 
 ## 💡 Problem Solving Experience
 - **Leetcode:** 100+ problems solved.
 
 ## ⚙️ Skills
-- **Programming Languages:** C, C++, Python, JavaScript.
+- **Programming Languages:** C, C++, Python, JavaScript, PHP, Django.
 - **Technologies & Tools:** HTML, CSS, SCSS, Bootstrap, MySQL, MongoDB, Tailwind CSS.
 - **Leadership & Others:** Proficient in communication, management, and organizing events.
 
