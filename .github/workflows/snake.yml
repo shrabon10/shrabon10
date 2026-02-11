@@ -1,4 +1,4 @@
-name: Generate Snake Animation 🐍
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -10,25 +10,23 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: ⬇️ Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: 🐍 Generate Snake Animation
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: shrabon10
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg
 
-      - name: 🚀 Deploy Animation to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Push snake files
+        uses: EndBug/add-and-commit@v9
         with:
-          personal_token: ${{ secrets.KALI_LINUX }}
-          publish_branch: output
-          publish_dir: ./dist
-          force_orphan: true
-          commit_message: "🪄 chore: update snake animation"
-          user_name: github-actions[bot]
-          user_email: github-actions[bot]@users.noreply.github.com
+          add: "dist"
+          message: "Generate snake animation"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
