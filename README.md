@@ -57,3 +57,8 @@ Feel free to reach out via email or check out my projects on GitHub!
 |[![**shrabon status**](https://github-readme-stats.vercel.app/api?username=shrabon10&show_icons=true&theme=merko&includble_all_commits=true)](#gh-dark-mode-only) [![**shrabon status**](https://github-readme-stats.vercel.app/api?username=shrabon10&show_icons=true&theme=buefy&includble_all_commits=true)](#gh-light-mode-only) | [![**shrabon status**](https://github-readme-stats.vercel.app/api/top-langs/?username=shrabon10&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#gh-dark-mode-only) [![**shrabon status**](https://github-readme-stats.vercel.app/api/top-langs/?username=shrabon&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#gh-light-mode-only) |
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=shrabon10&theme=merko&hide_border=false)](#gh-dark-mode-only) [![](https://github-readme-streak-stats.herokuapp.com/?user=shrabon10&theme=buefy&hide_border=false)](#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrabon10/shrabon10/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrabon10/shrabon10/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/shrabon10/shrabon10/output/github-snake-light.svg">
+</picture>
