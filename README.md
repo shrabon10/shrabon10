@@ -42,7 +42,6 @@ I am a passionate software engineer. I specialize in creating user-friendly inte
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 Feel free to reach out via email or check out my projects on GitHub!
-
 <br>
   <img align="right" alt="GIF" src="https://github.com/coderskamrul/coderskamrul/blob/main/img/Programmer-PNG-Photo-Image.png" width="500" height="320" />
     <br/>
