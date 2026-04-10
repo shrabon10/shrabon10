@@ -75,8 +75,8 @@ Feel free to reach out via email or check out my projects on GitHub!
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=shrabon10&theme=merko&hide_border=false)](#gh-dark-mode-only) [![](https://github-readme-streak-stats.herokuapp.com/?user=shrabon10&theme=buefy&hide_border=false)](#gh-light-mode-only)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrabon10/shrabon10/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrabon10/shrabon10/output/github-snake-light.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/shrabon10/shrabon10/output/github-snake-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrabon10/shrabon10/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrabon10/shrabon10/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/shrabon10/shrabon10/output/github-contribution-grid-snake.svg">
 </picture>
 
